@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@font-face {
+	font-family: "Mulish";
+	src: url(../fonts/Mulish-Bold.woff2) format("woff2"), url(../fonts/Mulish-Bold.woff) format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Mulish";
+	src: url(../fonts/Mulish-Regular.woff2) format("woff2"), url(../fonts/Mulish-Regular.woff) format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;}
+	@font-face {
+		font-family: "Mulish";
+		src: url(../fonts/Mulish-MediumItalic.woff2) format("woff2"), url(../fonts/Mulish-MediumItalic.woff) format("woff");
+		font-display: swap;
+		font-weight: 500;
+		font-style: italic;}
+	header{font-family: "Lobster", sans-serif;
+		font-size: 40px;
+		color: green;
+		text-align: center;
+		text-decoration: underline;
+		text-shadow: 5px 3px 5px red;
+		text-transform: capitalize;
+		letter-spacing: 10px;
+		margin: 50px;
+	}
+	.title{font-family: "Mulish";
+	font-weight: 700;
+	font-size: 20px;
+	color: brown;
+	text-align: center;
+}
+	.img{margin: 50px;
+}
+.block{font-family:"Mulish";
+	font-style: italic;
+font-size: 18px;
+background-color: blue;
+margin: 35px;
+padding: 25px;
+width: 600px;
+text-align: justify;
+line-height: 25px;
+}
+.text{font-family: "Mulish";
+font-size: 22px;
+text-indent: 50px;
+line-height: 28px;
+width: 700px;
+text-align: justify;
+color: blue;}
+
+li{font-family: "Lobster";
+padding-left: 35px;
+color: chartreuse;
+text-shadow: 3px 5px 4px burlywood;
+}
+.titlelist{font-family: "Mulish";
+font-weight: 700;
+font-size: 45px;
+color: grey;}
